@@ -12,7 +12,7 @@ A functional regression problem aims to learn a map $\mathfrak{F}:\mathcal{Z}\ma
 
 ### Dependencies:
     Python version: 3.7
-    Packages: numpy, scipy, matplotlib, cvxopt, networkx
+    Packages: numpy, scipy, matplotlib, cvxopt, networkx, concurrent.futures
 
 ### File Descriptions:
 The codes are divided into the following folders:
