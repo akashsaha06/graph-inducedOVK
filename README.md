@@ -25,3 +25,5 @@ The movement of basketball and 21 players involved on the court ($x-y$ coordinat
 
 ### Contact for any query:
     akashsaha@iitb.ac.in
+    akashsaha06@gmail.com
+    balamurugan.palaniappan@iitb.ac.in
