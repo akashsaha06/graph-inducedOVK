@@ -10,8 +10,7 @@ A functional regression problem aims to learn a map $\mathfrak{F}:\mathcal{Z}\ma
 ### Citation
 To cite this work, you can use the following bibtex entry:
  ```bib
-@article{
-saha2024learning,
+@article{saha2024learning,
 title={Learning Sparse Graphs for Functional Regression using Graph-induced Operator-valued Kernels},
 author={Akash Saha and Balamurugan Palaniappan},
 journal={Transactions on Machine Learning Research},
